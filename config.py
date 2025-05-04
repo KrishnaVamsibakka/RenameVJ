@@ -6,7 +6,7 @@ API_ID = os.environ.get("API_ID", "29055333")
 
 API_HASH = os.environ.get("API_HASH", "a6d154242eaef80a163bf5d0a7763882")
 
-BOT_TOKEN = os.environ.get("BOT_TOKEN", "") 
+BOT_TOKEN = os.environ.get("BOT_TOKEN", "8144019421:AAGQhYcgwmUWqMIOHORCCuxeEvPNaaFPq98") 
 
 FORCE_SUB = os.environ.get("FORCE_SUB", "Cartoonworldtelugu_india") 
 
